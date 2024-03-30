@@ -51,5 +51,9 @@ If you use this code or the analysis results in your research, please cite the o
 
 **Patel JC, Khurana P, Sharma YK, Kumar B, Ragumani S (2018) Chronic lifestyle diseases display seasonal sensitive comorbid trend in human population evidence from Google Trends. PLOS ONE 13(12): e0207359. https://doi.org/10.1371/journal.pone.0207359**
 
+**Patel JC, Khurana P, Sharma YK, Kumar B, Sugadev R. Google trend analysis of climatic zone based Indian severe seasonal sensitive population. BMC Public Health. 2020 Mar 12;20(1):306. doi: 10.1186/s12889-020-8399-0. PMID: 32164654; PMCID: PMC7069044.**
+
+**Patel JC, Gupta A, Kumar P, Waidha KM, Deep A, Kumar A, Katare DP, Sharma AK. Cardiovascular diseases display etiological and seasonal trend in human population: Evidence from seasonal cardiovascular comorbid diseases (SCCD) index. Am J Hum Biol. 2023 Jun;35(6):e23867. doi: 10.1002/ajhb.23867. Epub 2023 Jan 18. PMID: 36651684.**
+
 **License:**
 This code is provided under the MIT License. Feel free to use, modify, or distribute it according to your needs.
