@@ -1,4 +1,4 @@
-**Time Series Analysis Code**
+**Time Series Analysis**
 This repository contains R code for conducting time series analysis on chronic lifestyle diseases data. The analysis includes various tests, such as MAN-KENDALL and COX-STUART tests, calculation of autocorrelation and partial autocorrelation, periodogram analysis, and seasonal decomposition using LOESS and TBATS methods.
 
 **Instructions:**
